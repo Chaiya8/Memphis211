@@ -1,0 +1,20 @@
+[
+  {
+    "id": "food",
+    "name": "Food Help",
+    "keywords": ["food", "pantry", "mobile", "fresh market", "groceries"],
+    "reply_html": "🔎 <strong>Memphis Food Help</strong><br/>• <a href=\"https://www.midsouthfoodbank.org/find-food\" target=\"_blank\" rel=\"noopener\">Find Food (ZIP search)</a><br/>• <a href=\"https://www.midsouthfoodbank.org/mobile-pantry\" target=\"_blank\" rel=\"noopener\">Mobile Pantry schedule</a><br/><em>Schedules update frequently; check the day of the event.</em>"
+  },
+  {
+    "id": "housing",
+    "name": "Housing / Rent / Utilities",
+    "keywords": ["rent", "housing", "shelter", "utility", "utilities", "mortgage"],
+    "reply_html": "🏠 <strong>Memphis Housing, Rent & Utilities</strong><br/>• <a href=\"https://www.mifa.org/applyonline\" target=\"_blank\" rel=\"noopener\">MIFA rent/mortgage assistance – Apply</a><br/>• <a href=\"https://shelbycountycsa.org/\" target=\"_blank\" rel=\"noopener\">Shelby County CSA – Utilities & assistance hub</a><br/>• <a href=\"https://memphistn.gov/home-funded-tenant-based-rental-assistance-home-tbra/\" target=\"_blank\" rel=\"noopener\">City TBRA – Rental/utility assistance (eligibility)</a><br/>• <a href=\"https://home901.org/\" target=\"_blank\" rel=\"noopener\">Welcome Home Memphis – Housing resource hub</a>"
+  },
+  {
+    "id": "education",
+    "name": "Education Grants & Adult Learning",
+    "keywords": ["reconnect", "grant", "tuition", "scholarship", "ged", "hiset", "adult ed", "college"],
+    "reply_html": "🎓 <strong>Education Grants & Adult Learning</strong><br/>• <a href=\"https://tnreconnect.gov/\" target=\"_blank\" rel=\"noopener\">Tennessee Reconnect – Overview</a><br/>• <a href=\"https://tnreconnect.gov/TN-Reconnect-Grant-Application\" target=\"_blank\" rel=\"noopener\">Tennessee Reconnect – Apply</a><br/>• <a href=\"https://www.tn.gov/workforce/jobs-and-education/ae.html\" target=\"_blank\" rel=\"noopener\">Tennessee Adult Education – GED/HiSET & ESL</a><br/>• <a href=\"https://www.literacymidsouth.org/adult-literacy\" target=\"_blank\" rel=\"noopener\">Literacy Mid-South – Adult Learning</a><br/>• <a href=\"https://www.memphisvirtualadulths.org/\" target=\"_blank\" rel=\"noopener\">MSCS Virtual Adult High School</a>"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Basic Needs",
+    "subtitle": "Food • Housing • Utilities • Transport",
+    "hint": "Food pantries, emergency food, shelter, rent help, utilities, transportation",
+    "exampleQueries": ["Food Pantry", "Emergency Food", "Food Vouchers", "Formula/Baby Food", "Fresh Food", "Congregate Meals", "Home Delivered Meals", "Soup Kitchens", "Housing/Shelter", "Material Goods", "Transportation", "Utilities"]
+  },
+  {
+    "title": "Food",
+    "subtitle": "Pantries • Meals • Emergency Food",
+    "hint": "Food pantries, emergency food assistance, meals, food vouchers",
+    "exampleQueries": ["Food Pantry", "Emergency Food", "Commodity Supplemental Food Program", "Food Vouchers", "Formula/Baby Food", "Fresh Food", "Congregate Meals", "Home Delivered Meals", "Soup Kitchens"]
+  },
+  {
+    "title": "Food Production",
+    "subtitle": "Gardening • Agriculture • Food Collection",
+    "hint": "Home gardening, sustainable agriculture, food collection",
+    "exampleQueries": ["Home Gardening Assistance", "Sustainable Agriculture", "Food Collection and Storage", "Food Production Economics", "Animal Husbandry Programs"]
+  },
+  {
+    "title": "Housing/Shelter",
+    "subtitle": "Emergency Shelter • Housing Assistance",
+    "hint": "Emergency shelter, housing assistance, rent help",
+    "exampleQueries": ["Emergency Shelter", "Housing Assistance", "Rent Help", "Housing Resources"]
+  },
+  {
+    "title": "Material Goods",
+    "subtitle": "Clothing • Furniture • Household Items",
+    "hint": "Clothing, furniture, household goods assistance",
+    "exampleQueries": ["Clothing Assistance", "Furniture", "Household Items", "Material Goods"]
+  },
+  {
+    "title": "Transportation",
+    "subtitle": "Bus • Rides • Transportation Services",
+    "hint": "Bus passes, ride services, transportation assistance",
+    "exampleQueries": ["Bus Pass", "Ride Services", "Transportation Assistance"]
+  },
+  {
+    "title": "Utilities",
+    "subtitle": "Electric • Water • Gas • Phone",
+    "hint": "Utility bill assistance, energy help",
+    "exampleQueries": ["Utility Bill Help", "Electric Assistance", "Water Assistance", "Energy Help"]
+  },
+  {
+    "title": "Consumer Services",
+    "subtitle": "Protection • Money • Taxes",
+    "hint": "Consumer protection, budgeting, tax services",
+    "exampleQueries": ["Consumer Protection", "Money Management", "Tax Prep", "Report A Scam"]
+  },
+  {
+    "title": "Criminal Justice and Legal Services",
+    "subtitle": "Legal Aid • Rights • Court Services",
+    "hint": "Legal assistance, tenant rights, court info, expungement",
+    "exampleQueries": ["Legal Help", "Tenant Rights", "Expungement", "Order Of Protection", "Court Services"]
+  },
+  {
+    "title": "Education",
+    "subtitle": "Schools • Programs • Adult Learning",
+    "hint": "K-12, GED, adult education, tutoring, after school",
+    "exampleQueries": ["GED", "Tutoring", "After School", "Special Education Support", "Adult Education"]
+  },
+  {
+    "title": "Environment & Public Health/Safety",
+    "subtitle": "Public Health • Safety • Environmental",
+    "hint": "Public health info, safety alerts, environmental services",
+    "exampleQueries": ["Public Health Info", "Neighborhood Safety", "Environmental Complaint", "Public Safety"]
+  },
+  {
+    "title": "Health Care",
+    "subtitle": "Clinics • Dental • Family Planning • Specialty",
+    "hint": "Medical care, clinics, dental, family planning, health screening",
+    "exampleQueries": ["Emergency Medical Care", "General Medical Care", "Health Screening", "Family Planning", "Dental Clinic", "Specialty Medicine", "Rehabilitation Services"]
+  },
+  {
+    "title": "Health Supportive Services",
+    "subtitle": "Outpatient • Rehabilitation • Treatment",
+    "hint": "Outpatient facilities, rehabilitation, specialized treatment",
+    "exampleQueries": ["Outpatient Health Facilities", "Rehabilitation Services", "Specialized Treatment", "Health Support Services"]
+  },
+  {
+    "title": "Income & Employment",
+    "subtitle": "Jobs • Training • Benefits",
+    "hint": "Job openings, training, public assistance, unemployment",
+    "exampleQueries": ["Job Openings", "Job Training", "SNAP Application", "TANF", "Unemployment", "Employment Services"]
+  },
+  {
+    "title": "Individual & Family Life",
+    "subtitle": "Childcare • Parenting • Recreation",
+    "hint": "Childcare, parenting support, youth programs, family services",
+    "exampleQueries": ["Childcare", "Parenting Class", "Youth Programs", "Recreation Centers", "Family Services"]
+  },
+  {
+    "title": "Mental Health and Substance Use Disorder Services",
+    "subtitle": "Counseling • Treatment • Support Groups",
+    "hint": "Mental health counseling, substance use treatment, support groups",
+    "exampleQueries": ["Mental Health Counseling", "Substance Use Treatment", "Support Group", "Crisis Line", "Mental Health Assessment"]
+  },
+  {
+    "title": "Counseling Services",
+    "subtitle": "Mental Health • Assessment • Treatment",
+    "hint": "Mental health counseling, assessment, treatment facilities",
+    "exampleQueries": ["Counseling", "Mental Health Assessment", "Mental Health Treatment", "Counseling Settings", "Mental Health Care Facilities"]
+  },
+  {
+    "title": "Mental Health Support Services",
+    "subtitle": "Support Groups • Crisis Services",
+    "hint": "Mental health support, crisis intervention",
+    "exampleQueries": ["Mental Health Support", "Crisis Services", "Support Groups"]
+  },
+  {
+    "title": "Substance Use Disorder Services",
+    "subtitle": "Treatment • Prevention • Recovery",
+    "hint": "Substance use treatment, prevention programs",
+    "exampleQueries": ["Substance Use Treatment", "Addiction Help", "Recovery Programs", "Prevention Services"]
+  },
+  {
+    "title": "Organization & Community Services",
+    "subtitle": "Centers • Libraries • Volunteering",
+    "hint": "Community centers, libraries, local groups, volunteering",
+    "exampleQueries": ["Community Center", "Library", "Volunteer", "Donation Pickup", "Community Services"]
+  },
+  {
+    "title": "Target Populations",
+    "subtitle": "Seniors • Disabilities • Families • Special Groups",
+    "hint": "Services for older adults, disabilities, families, specific populations",
+    "exampleQueries": ["Senior Home Care", "Disability Services", "SNAP Help", "Victim Support", "Older Adults Services"]
+  },
+  {
+    "title": "Older Adults",
+    "subtitle": "Senior Services • Home Care",
+    "hint": "Services for older adults and seniors",
+    "exampleQueries": ["Senior Services", "Older Adults Care", "Senior Home Care", "Elder Services"]
+  },
+  {
+    "title": "Food Stamps/SNAP Recipients",
+    "subtitle": "SNAP • Food Assistance",
+    "hint": "Services for SNAP recipients and food stamp assistance",
+    "exampleQueries": ["SNAP Application", "Food Stamps Help", "SNAP Benefits", "Food Assistance"]
+  },
+  {
+    "title": "Disabilities and Health Conditions",
+    "subtitle": "Disability Services • Health Support",
+    "hint": "Services for people with disabilities and health conditions",
+    "exampleQueries": ["Disability Services", "Health Condition Support", "Disability Resources"]
+  },
+  {
+    "title": "Families and Individuals Needing Support",
+    "subtitle": "Family Services • Individual Support",
+    "hint": "Support services for families and individuals",
+    "exampleQueries": ["Family Support", "Individual Assistance", "Family Services"]
+  },
+  {
+    "title": "Victims/Survivors",
+    "subtitle": "Victim Services • Survivor Support",
+    "hint": "Services for victims and survivors of crime or abuse",
+    "exampleQueries": ["Victim Support", "Survivor Services", "Victim Assistance", "Crisis Support"]
+  },
+  {
+    "title": "Advanced",
+    "subtitle": "Additional Services • Specialized Help",
+    "hint": "Advanced and specialized services",
+    "exampleQueries": ["Specialized Services", "Advanced Help", "Additional Resources"]
+  }
+]

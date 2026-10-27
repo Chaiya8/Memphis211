@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mid-South Food Bank – Mobile Pantry",
+    "services": ["Food Pantry", "Emergency Groceries", "SNAP Assistance"],
+    "description": "Weekly mobile pantry rotating sites. ID preferred.",
+    "hours": "Mon–Fri 9a–4p; Mobile Sat (check site)",
+    "phone": "(901) 555-1200",
+    "address": "123 Example Ave, Memphis, TN 38126",
+    "zip": "38126",
+    "website": "https://example.org"
+  },
+  {
+    "name": "Room In The Inn – Emergency Shelter",
+    "services": ["Emergency Shelter", "Case Management"],
+    "description": "Night shelter with case management and referrals.",
+    "hours": "Daily check-in 4p–6p",
+    "phone": "(901) 555-2200",
+    "address": "456 Hope St, Memphis, TN 38106",
+    "zip": "38106",
+    "website": "https://example.org/shelter"
+  },
+  {
+    "name": "Memphis Health Clinic – South",
+    "services": ["Primary Care", "Dental", "Vaccines"],
+    "description": "Low-cost primary care clinic. Sliding scale fees.",
+    "hours": "Mon–Fri 8a–5p",
+    "phone": "(901) 555-3300",
+    "address": "789 Care Blvd, Memphis, TN 38118",
+    "zip": "38118",
+    "website": "https://example.org/clinic"
+  }
+]
