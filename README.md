@@ -2,6 +2,8 @@
 
 A modernized, accessible web directory and interactive assistant designed to connect Memphis and Shelby County residents with essential community resources, including food pantries, emergency shelter, rent and utility assistance, clinics, legal aid, and transit.
 
+**Live Demo (Hosted on Netlify):** https://memphis-2-1-1.netlify.app/
+
 ![Memphis 2-1-1 Homepage](211%20homepage.png)
 
 ## Key Features
