@@ -1,0 +1,56 @@
+[
+  {
+    "id": "food",
+    "name": "Food Help",
+    "keywords": ["food", "pantry", "mobile", "fresh market", "groceries", "snap", "meal"],
+    "reply_html": "<i class=\"fa-solid fa-utensils\" aria-hidden=\"true\"></i> <strong>Memphis Food Help</strong><br/>&bull; <a href=\"https://www.midsouthfoodbank.org/find-food\" target=\"_blank\" rel=\"noopener\">Mid-South Food Bank – Find Food (ZIP search)</a><br/>&bull; <a href=\"https://www.midsouthfoodbank.org/mobile-pantry\" target=\"_blank\" rel=\"noopener\">Mobile Pantry Schedule</a><br/><em>Schedules update frequently; check the day of the event.</em>"
+  },
+  {
+    "id": "housing",
+    "name": "Housing / Rent / Shelter",
+    "keywords": ["rent", "housing", "shelter", "mortgage", "eviction", "homeless"],
+    "reply_html": "<i class=\"fa-solid fa-house\" aria-hidden=\"true\"></i> <strong>Memphis Housing, Rent &amp; Shelter</strong><br/>&bull; <a href=\"https://www.mifa.org/applyonline\" target=\"_blank\" rel=\"noopener\">MIFA Rent &amp; Mortgage Assistance – Apply</a><br/>&bull; <a href=\"https://memphistn.gov/home-funded-tenant-based-rental-assistance-home-tbra/\" target=\"_blank\" rel=\"noopener\">City TBRA – Rental Assistance</a><br/>&bull; <a href=\"https://home901.org/\" target=\"_blank\" rel=\"noopener\">Welcome Home Memphis – Housing Hub</a>"
+  },
+  {
+    "id": "utilities",
+    "name": "Utility Bill Assistance",
+    "keywords": ["utility", "utilities", "mlgw", "electric", "water", "gas", "bill", "disconnect"],
+    "reply_html": "<i class=\"fa-solid fa-bolt\" aria-hidden=\"true\"></i> <strong>Memphis Utility &amp; MLGW Assistance</strong><br/>&bull; <a href=\"https://shelbycountycsa.org/\" target=\"_blank\" rel=\"noopener\">Shelby County CSA – LIHEAP Utility Assistance</a><br/>&bull; <a href=\"https://www.mifa.org/plus1\" target=\"_blank\" rel=\"noopener\">MIFA Plus-1 – MLGW Emergency Help</a><br/>&bull; <a href=\"https://www.mlgw.com/residential/customerassistance\" target=\"_blank\" rel=\"noopener\">MLGW Customer Assistance Programs</a>"
+  },
+  {
+    "id": "health",
+    "name": "Medical & Dental Clinics",
+    "keywords": ["clinic", "doctor", "medical", "dental", "dentist", "health", "vaccine", "prescription"],
+    "reply_html": "<i class=\"fa-solid fa-stethoscope\" aria-hidden=\"true\"></i> <strong>Memphis Low-Cost Clinics &amp; Dental</strong><br/>&bull; <a href=\"https://www.christcommunityhealth.org/\" target=\"_blank\" rel=\"noopener\">Christ Community Health Services (Sliding Scale)</a><br/>&bull; <a href=\"https://www.churchhealth.org/\" target=\"_blank\" rel=\"noopener\">Church Health – Medical &amp; Dental Care</a><br/>&bull; <a href=\"https://www.shelbytnhealth.com/\" target=\"_blank\" rel=\"noopener\">Shelby County Health Department Clinics</a>"
+  },
+  {
+    "id": "mental_health",
+    "name": "Mental Health & Crisis Support",
+    "keywords": ["mental", "counseling", "therapy", "crisis", "suicide", "substance", "addiction", "recovery"],
+    "reply_html": "<i class=\"fa-solid fa-heart-pulse\" aria-hidden=\"true\"></i> <strong>Memphis Mental Health &amp; Crisis Lines</strong><br/>&bull; <strong>Call or Text <a href=\"tel:988\">988</a></strong> – 24/7 Suicide &amp; Crisis Lifeline<br/>&bull; <a href=\"https://www.allianceshs.org/\" target=\"_blank\" rel=\"noopener\">Alliance Healthcare Services – 24/7 Crisis Wellness Center</a><br/>&bull; <a href=\"https://www.tn.gov/behavioral-health.html\" target=\"_blank\" rel=\"noopener\">TN Behavioral Health &amp; Substance Recovery</a>"
+  },
+  {
+    "id": "transportation",
+    "name": "Transportation & Bus Passes",
+    "keywords": ["bus", "mata", "ride", "transportation", "transit", "pass"],
+    "reply_html": "<i class=\"fa-solid fa-bus\" aria-hidden=\"true\"></i> <strong>Memphis Transportation &amp; MATA</strong><br/>&bull; <a href=\"https://www.matatransit.com/\" target=\"_blank\" rel=\"noopener\">MATA Transit – Routes, Fares &amp; Reduced Passes</a><br/>&bull; <a href=\"https://www.matatransit.com/mata-plus/\" target=\"_blank\" rel=\"noopener\">MATAplus – Paratransit Services</a><br/>&bull; Call <a href=\"tel:211\">2-1-1</a> for emergency medical or job-interview transit vouchers."
+  },
+  {
+    "id": "legal",
+    "name": "Legal Aid & Tenant Rights",
+    "keywords": ["legal", "lawyer", "attorney", "tenant", "expungement", "court", "custody", "domestic"],
+    "reply_html": "<i class=\"fa-solid fa-scale-balanced\" aria-hidden=\"true\"></i> <strong>Memphis Free Legal Aid</strong><br/>&bull; <a href=\"https://malsi.org/\" target=\"_blank\" rel=\"noopener\">Memphis Area Legal Services (MALS)</a><br/>&bull; <a href=\"https://www.tnfreelegalanswers.org/\" target=\"_blank\" rel=\"noopener\">TN Free Legal Answers</a><br/>&bull; 24/7 Domestic Violence Hotline: <a href=\"tel:9012784357\">(901) 278-4357</a>"
+  },
+  {
+    "id": "employment",
+    "name": "Jobs & Workforce Training",
+    "keywords": ["job", "jobs", "work", "resume", "training", "unemployment", "career"],
+    "reply_html": "<i class=\"fa-solid fa-briefcase\" aria-hidden=\"true\"></i> <strong>Memphis Jobs &amp; Career Training</strong><br/>&bull; <a href=\"https://www.americanjobcenter.com/\" target=\"_blank\" rel=\"noopener\">American Job Center – Greater Memphis</a><br/>&bull; <a href=\"https://www.jobs4tn.gov/\" target=\"_blank\" rel=\"noopener\">Jobs4TN – State Job Board &amp; Unemployment</a><br/>&bull; <a href=\"https://www.goodwillmemphis.org/career-services\" target=\"_blank\" rel=\"noopener\">Goodwill Memphis – Free Career Coaching</a>"
+  },
+  {
+    "id": "education",
+    "name": "Education Grants & Adult Learning",
+    "keywords": ["reconnect", "grant", "tuition", "scholarship", "ged", "hiset", "adult ed", "college"],
+    "reply_html": "<i class=\"fa-solid fa-graduation-cap\" aria-hidden=\"true\"></i> <strong>Education Grants &amp; Adult Learning</strong><br/>&bull; <a href=\"https://tnreconnect.gov/\" target=\"_blank\" rel=\"noopener\">Tennessee Reconnect – Overview</a><br/>&bull; <a href=\"https://www.tn.gov/workforce/jobs-and-education/ae.html\" target=\"_blank\" rel=\"noopener\">Tennessee Adult Education – GED/HiSET &amp; ESL</a><br/>&bull; <a href=\"https://www.literacymidsouth.org/adult-literacy\" target=\"_blank\" rel=\"noopener\">Literacy Mid-South – Adult Learning</a><br/>&bull; <a href=\"https://www.memphisvirtualadulths.org/\" target=\"_blank\" rel=\"noopener\">MSCS Virtual Adult High School</a>"
+  }
+]

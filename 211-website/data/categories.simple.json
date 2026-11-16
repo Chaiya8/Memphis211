@@ -1,0 +1,166 @@
+[
+  {
+    "title": "Basic Needs",
+    "subtitle": "Food • Housing • Utilities • Transport",
+    "hint": "Food pantries, emergency shelter, rent assistance, utilities, transportation",
+    "exampleQueries": [
+      "Food Pantries",
+      "Meals",
+      "Formula/Baby Food",
+      "Emergency Shelter",
+      "Rent Payment Assistance",
+      "Low Income/Subsidized Rental Housing",
+      "Utility Assistance",
+      "Electric Service Payment Assistance",
+      "Local Transportation",
+      "Clothing"
+    ]
+  },
+  {
+    "title": "Consumer Services",
+    "subtitle": "Tax Prep • Money Management • IDs & Licenses",
+    "hint": "Tax preparation, financial counseling, birth certificates, driver licenses",
+    "exampleQueries": [
+      "Tax Preparation Assistance",
+      "VITA Programs",
+      "Money Management",
+      "Personal Financial Counseling",
+      "Consumer Complaints",
+      "Birth Certificates",
+      "Identification Cards",
+      "Driver Licenses"
+    ]
+  },
+  {
+    "title": "Criminal Justice & Legal Services",
+    "subtitle": "Legal Aid • Tenant Rights • Reentry",
+    "hint": "Free legal services, landlord/tenant help, protective orders, reentry",
+    "exampleQueries": [
+      "Legal Services",
+      "Landlord/Tenant Assistance",
+      "Domestic Violence Protective/Restraining Orders",
+      "Family Law/Child Advocacy Centers",
+      "Immigration/Naturalization Legal Services",
+      "Ex-Offender Reentry Programs",
+      "Crime Victim Support",
+      "Courts"
+    ]
+  },
+  {
+    "title": "Education",
+    "subtitle": "GED • Adult Ed • Tutoring • Head Start",
+    "hint": "GED prep, ESL, early childhood education, tutoring, financial aid",
+    "exampleQueries": [
+      "GED/High School Equivalency Test",
+      "Adult Education",
+      "English As A Second Language",
+      "Literacy Programs",
+      "Tutoring Services",
+      "Head Start",
+      "Student Financial Aid",
+      "Technical/Trade Schools"
+    ]
+  },
+  {
+    "title": "Environment & Public Health/Safety",
+    "subtitle": "Public Health • Water Quality • Safety",
+    "hint": "Public health inspections, communicable disease control, public safety",
+    "exampleQueries": [
+      "Public Health",
+      "Public Health Information/Inspection/Remediation",
+      "Communicable Disease Control",
+      "Public Safety",
+      "Water Quality Assurance",
+      "Energy Conservation"
+    ]
+  },
+  {
+    "title": "Health Care",
+    "subtitle": "Clinics • Dental • Prescriptions • Insurance",
+    "hint": "Community clinics, dental care, prescription help, Medicaid/health insurance",
+    "exampleQueries": [
+      "Community Clinics",
+      "General Health & Medical Care",
+      "Dental Care",
+      "Prescription Medication Services",
+      "Medical Expense Assistance",
+      "Family Planning",
+      "Women's Health Centers",
+      "Health Insurance/Dental Coverage",
+      "Home Health Care",
+      "Immunizations"
+    ]
+  },
+  {
+    "title": "Income & Employment",
+    "subtitle": "Jobs • SNAP • WIC • Unemployment",
+    "hint": "Job finding assistance, SNAP/Food Stamps, WIC, Medicaid, unemployment",
+    "exampleQueries": [
+      "Job Finding Assistance",
+      "Comprehensive Job Assistance Centers",
+      "Training And Employment Programs",
+      "Food Stamps/SNAP",
+      "WIC",
+      "Medicaid",
+      "Unemployment Insurance",
+      "Temporary Financial Assistance",
+      "Child Care Expense Assistance"
+    ]
+  },
+  {
+    "title": "Individual & Family Life",
+    "subtitle": "Childcare • Youth • Parks • Support Groups",
+    "hint": "Child care providers, youth programs, parks, parenting, volunteer opportunities",
+    "exampleQueries": [
+      "Child Care Providers",
+      "Youth Programs",
+      "Parks/Recreation Areas",
+      "Parenting Education",
+      "Support Groups",
+      "In Home Assistance",
+      "Holiday Programs",
+      "Volunteer Opportunities"
+    ]
+  },
+  {
+    "title": "Mental Health & Substance Use",
+    "subtitle": "Counseling • Crisis • Recovery • Detox",
+    "hint": "Mental health counseling, crisis intervention, substance use treatment",
+    "exampleQueries": [
+      "Counseling Services",
+      "Crisis Intervention",
+      "Outpatient Mental Health Facilities",
+      "Substance Use Disorder Treatment Programs",
+      "Detoxification",
+      "Support Groups",
+      "Talklines/Warmlines"
+    ]
+  },
+  {
+    "title": "Organization & Community Services",
+    "subtitle": "Community Centers • Libraries • 311 • Disaster",
+    "hint": "Community centers, public libraries, disaster relief, donation pickups",
+    "exampleQueries": [
+      "Community Facilities/Centers",
+      "Public Libraries",
+      "Disaster Relief Services",
+      "Donation Pickups",
+      "311 Services",
+      "211 Systems",
+      "Senior Centers"
+    ]
+  },
+  {
+    "title": "Target Populations",
+    "subtitle": "Seniors • Disabilities • Veterans • Survivors",
+    "hint": "Tailored programs for older adults, disabilities, SNAP recipients, survivors",
+    "exampleQueries": [
+      "Older Adults",
+      "Disabilities & Health Conditions",
+      "Food Stamps/SNAP Recipients",
+      "Domestic Violence Issues",
+      "Ex-Offenders",
+      "Veteran Outpatient Clinics"
+    ]
+  }
+]
